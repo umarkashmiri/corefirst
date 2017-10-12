@@ -1,0 +1,11 @@
+c:\users\uhadyatu\documents\visual studio 2017\Projects\corefirst\corefirst\bin\Debug\netcoreapp2.0\corefirst.deps.json
+c:\users\uhadyatu\documents\visual studio 2017\Projects\corefirst\corefirst\bin\Debug\netcoreapp2.0\corefirst.runtimeconfig.json
+c:\users\uhadyatu\documents\visual studio 2017\Projects\corefirst\corefirst\bin\Debug\netcoreapp2.0\corefirst.runtimeconfig.dev.json
+c:\users\uhadyatu\documents\visual studio 2017\Projects\corefirst\corefirst\bin\Debug\netcoreapp2.0\corefirst.dll
+c:\users\uhadyatu\documents\visual studio 2017\Projects\corefirst\corefirst\bin\Debug\netcoreapp2.0\corefirst.pdb
+c:\users\uhadyatu\documents\visual studio 2017\Projects\corefirst\corefirst\obj\Debug\netcoreapp2.0\corefirst.csprojResolveAssemblyReference.cache
+c:\users\uhadyatu\documents\visual studio 2017\Projects\corefirst\corefirst\obj\Debug\netcoreapp2.0\corefirst.csproj.CoreCompileInputs.cache
+c:\users\uhadyatu\documents\visual studio 2017\Projects\corefirst\corefirst\obj\Debug\netcoreapp2.0\corefirst.AssemblyInfoInputs.cache
+c:\users\uhadyatu\documents\visual studio 2017\Projects\corefirst\corefirst\obj\Debug\netcoreapp2.0\corefirst.AssemblyInfo.cs
+c:\users\uhadyatu\documents\visual studio 2017\Projects\corefirst\corefirst\obj\Debug\netcoreapp2.0\corefirst.dll
+c:\users\uhadyatu\documents\visual studio 2017\Projects\corefirst\corefirst\obj\Debug\netcoreapp2.0\corefirst.pdb
