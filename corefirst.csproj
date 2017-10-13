@@ -16,4 +16,11 @@
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.0" />
   </ItemGroup>
 
+  <Target Name="AngularBuild" BeforeTargets="PreBuildEvent">
+    <Message Text="Starting NG Build" Importance="high" />
+    <Exec Command="ng build" />
+    <Message Text="NG Build Finished" Importance="high" />
+  </Target>
+
+  
 </Project>

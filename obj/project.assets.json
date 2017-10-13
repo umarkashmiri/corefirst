@@ -12498,11 +12498,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\uhadyatu\\documents\\visual studio 2017\\Projects\\corefirst\\corefirst\\corefirst.csproj",
+      "projectUniqueName": "C:\\Users\\uhadyatu\\documents\\visual studio 2017\\Projects\\corefirst\\corefirst\\corefirst.csproj",
       "projectName": "corefirst",
-      "projectPath": "c:\\users\\uhadyatu\\documents\\visual studio 2017\\Projects\\corefirst\\corefirst\\corefirst.csproj",
+      "projectPath": "C:\\Users\\uhadyatu\\documents\\visual studio 2017\\Projects\\corefirst\\corefirst\\corefirst.csproj",
       "packagesPath": "C:\\Users\\uhadyatu\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\uhadyatu\\documents\\visual studio 2017\\Projects\\corefirst\\corefirst\\obj\\",
+      "outputPath": "C:\\Users\\uhadyatu\\documents\\visual studio 2017\\Projects\\corefirst\\corefirst\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
